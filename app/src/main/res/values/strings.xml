@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">light_app_9</string>
+    <string name="run">Run</string>
+    <string name="calibrate">Calibrate</string>
+</resources>
